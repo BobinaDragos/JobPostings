@@ -1,0 +1,961 @@
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.StaticWebAssets.xml
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.exe
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.deps.json
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.json
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.dev.json
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\source\repos\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.csprojAssemblyReference.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfo.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\scopedcss\bundle\Site.styles.css
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.input.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.output.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorCoreGenerate.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CopyComplete
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Site.genruntimeconfig.cache
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Create.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Delete.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Details.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Edit.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Index.cshtml.g.cs
+C:\Users\Dragos\source\repos\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\ShowSearchForm.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.exe
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.deps.json
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.json
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\scopedcss\bundle\Site.styles.css
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.input.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.output.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorCoreGenerate.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Create.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Delete.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Details.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Edit.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Index.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\ShowSearchForm.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.genruntimeconfig.cache
+C:\Users\Dragos\Desktop\Proiect informatica\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.exe
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.deps.json
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.json
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\scopedcss\bundle\Site.styles.css
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.input.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.output.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorCoreGenerate.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Create.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Delete.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Details.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Edit.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Index.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\ShowSearchForm.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.genruntimeconfig.cache
+C:\Users\Dragos\Desktop\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.exe
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.deps.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.dev.json
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.AssemblyReference.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfo.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.input.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.output.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorCoreGenerate.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Create.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Delete.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Details.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Edit.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Index.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\ShowSearchForm.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.Views.pdb
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CopyComplete
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.dll
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.pdb
+C:\Users\Dragos\Desktop\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.genruntimeconfig.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.StaticWebAssets.xml
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.exe
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.deps.json
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.json
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.runtimeconfig.dev.json
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.pdb
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Site.Views.pdb
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.AssemblyReference.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfoInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.AssemblyInfo.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CoreCompileInputs.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.MvcApplicationPartsAssemblyInfo.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorAssemblyInfo.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Manifest.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.Pack.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Site.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Site.props
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Site.props
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Site.props
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\staticwebassets\Site.StaticWebAssets.xml
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.input.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.TagHelpers.output.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorCoreGenerate.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Create.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Delete.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Details.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Edit.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\Index.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\APosts\ShowSearchForm.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cache
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.RazorTargetAssemblyInfo.cs
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.Views.pdb
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.csproj.CopyComplete
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.dll
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.pdb
+D:\Programare\Proiecte_C#\Proiect info\Site\Site\obj\Debug\netcoreapp3.1\Site.genruntimeconfig.cache
